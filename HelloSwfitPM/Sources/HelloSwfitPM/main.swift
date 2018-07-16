@@ -1,1 +1,5 @@
-print("Hello, world!")
+func hello() -> String {
+    return "Hello, world!"
+}
+
+print(hello())
